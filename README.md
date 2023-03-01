@@ -36,8 +36,8 @@ MIT License.
 Tambien tenemos:
 
 * Academic Free License v.1.2.
-+    Apache Software License v.1.1
- +   Artistic License v.2.0
+*  Apache Software License v.1.1
+ *   Artistic License v.2.0
     Attribution Assurance license.
     University of Illinois/NCSA Open Source License.
     W3C Software Notice and License.
@@ -112,4 +112,9 @@ __Abiertas, Permisivas__
 ## ¿Cuáles son las ventajas del software libre para la sociedad?
 
 El software nos aporta una serie de ventajas. Para empezar, el hecho de que se pueda acceder al código fuente, permite que muchas personas revisen y prueben el código, consiguiendo un desarrollo y mejoramiento continuo y por pate de todos. Además, una de sus libertades nos permiete copiar y distribuir el código en beneficio. Por otra parte, al ser los usuarios los encargados del software, no se necesitan grandes fabricantes, por lo que se consigue mayor independencia tecnológica. Por último (low cost: dado que cuenta con una comunidad detrás que apoya su desarrollo, el programa termina siendo una opción económica que repercute directamente en el usuario.)
+
+## REFERENCIAS
+
+* "Licencia de software". Wikipedia. Deiponible en: https://es.wikipedia.org/wiki/Licencia_de_software. (Accedido: 1 de marzo, 2023)
+* 
 

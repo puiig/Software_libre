@@ -1,4 +1,4 @@
-# Software-libre
+# Software libre
 
 ## ¿Qué es el software libre?
 

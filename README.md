@@ -21,32 +21,31 @@ Esta licencia tiene elementos objetivos como lo es el plazo y el precio.
 
 ## Tipos de licencias de software 
 
-* __Licencia de software de código cerrado__ (software propietario o privativo): los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
+* __Licencia de software de código cerrado (software propietario o privativo)__ : los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
 
 Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa. 
 
-* __Licencia de software de código abierto permisivas__: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Es decir, no es necesario que tenga las mismas licencias que la original
+* __Licencia de software de código abierto (permisivas)__: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Es decir, no es necesario que tenga las mismas licencias que la original
 
 ###### ejemplos:
 
 Las más importantes son: 
-BSD License.
-MIT License.
+* BSD License.
+* MIT License.
 
 Tambien tenemos:
-
 * Academic Free License v.1.2.
-*  Apache Software License v.1.1
- *   Artistic License v.2.0
-    Attribution Assurance license.
-    University of Illinois/NCSA Open Source License.
-    W3C Software Notice and License.
-    Zope Public License v.2.0
-    Open LDAP License v.2.7
-    Perl License.
-    Academic Free License v.3.0
-    PHP License v.3.0
-    VMS License.
+* Apache Software License v.1.1
+* Artistic License v.2.0
+* Attribution Assurance license.
+* University of Illinois/NCSA Open Source License.
+* W3C Software Notice and License.
+* Zope Public License v.2.0
+* Open LDAP License v.2.7
+* Perl License.
+* Academic Free License v.3.0
+* PHP License v.3.0
+* VMS License.
     
 * __Licencia de software de código abierto robustas__: Estas licencias aplican algunas restricciones a las obras derivadas, haciendo que según el grado de aplicación se puedan dividir a su vez en dos subcategorías:
 
@@ -68,12 +67,12 @@ Tambien tenemos:
 
 ###### Ejemplos:
 
-    GNU Lesser General Public License v.2.1.
-    Mozilla Public License
-    Open Source License.
-    Apple Source License v.2.0
-    CDDL.
-    EUPL.
+* GNU Lesser General Public License v.2.1.
+* Mozilla Public License
+* Open Source License.
+* Apple Source License v.2.0
+* CDDL.
+* EUPL.
 
 
 ## Licencias de software libre

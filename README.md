@@ -81,11 +81,6 @@ Tambien tenemos:
 
 
 
-#### ¿Qué es EULA?
-
-Las siglas EULA significan: End-User License Agreement (Acuerdo de Licencia del Usuario Final). Este es un contrato legalmente vinculante entre el licenciador de un producto (normalmente de un software) y el licenciatario.
-En este contrato se especifican los derechos y restricciones que se aplican a un determinado software, y generalmente se muestra a los usuarios durante la etapa de instalación o configuración. Como otros contratos legales, solo es válido si está realmente acordado.
-
 #### Tipos de licencias libres
 
 __Libres, Copyleft__
@@ -107,6 +102,35 @@ __Abiertas, Permisivas__
 * Creative Commons
 
 ###### Ejemplos de licencias en la documentación
+
+#### Análisis de licencias de software libre
+
+* GPL v3.0
+
+La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3. 
+
+###### Ejemplos
+
+* [GameShell](https://github.com/phyver/GameShell.git)
+
+* [faceSwap]()
+
+LGPL v3.0
+
+La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU. La última es la versión 3. 
+
+###### Ejemplos
+
+*[]()
+
+
+
+
+
+
+
+
+
 
 ## ¿Cuáles son las ventajas del software libre para la sociedad?
 

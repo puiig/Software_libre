@@ -124,14 +124,6 @@ La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas �
 *[]()
 
 
-
-
-
-
-
-
-
-
 ## ¿Cuáles son las ventajas del software libre para la sociedad?
 
 El software nos aporta una serie de ventajas. Para empezar, el hecho de que se pueda acceder al código fuente, permite que muchas personas revisen y prueben el código, consiguiendo un desarrollo y mejoramiento continuo y por pate de todos. Además, una de sus libertades nos permiete copiar y distribuir el código en beneficio. Por otra parte, al ser los usuarios los encargados del software, no se necesitan grandes fabricantes, por lo que se consigue mayor independencia tecnológica. Por último (low cost: dado que cuenta con una comunidad detrás que apoya su desarrollo, el programa termina siendo una opción económica que repercute directamente en el usuario.)

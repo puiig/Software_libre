@@ -19,15 +19,23 @@ Una licencia de software es un contrato entre el licenciante y el licenciatario 
 
 Esta licencia tiene elementos objetivos como lo es el plazo y el precio.
 
-## Tipos de licencias de software 
+#### Tipos de licencias de software 
 
-* __Licencia de software de código cerrado (software propietario o privativo)__ : los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
+* __Licencia de software de código cerrado (software propietario o privativo)__ 
+    En este tipo de licencia los propietarios establecen los derechos de uso, distribución, redistribución,ventas, copia, modificación, cesión y en general cualquier otra consideración que se estime necesaria. 
 
 Este tipo de licencias, por lo general, no permiten que el software sea modificado, desensamblado, copiado o distribuido de formas no especificadas en la propia licencia (piratería de software), regula el número de copias que pueden ser instaladas e incluso los fines concretos para los cuales puede ser utilizado. La mayoría de estas licencias limitan fuertemente la responsabilidad derivada de fallos en el programa. 
 
-* __Licencia de software de código abierto (permisivas)__: Se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Es decir, no es necesario que tenga las mismas licencias que la original
+###### Ejemplos:
 
-###### ejemplos:
+* Licencia de Microsoft Windows
+* Licencia de Adobe Creative Cloud
+* Licencia de Reader
+
+* __Licencia de software de código abierto (permisivas)__: 
+    Con este tipo de licencia se puede crear una obra derivada sin que esta tenga obligación de protección alguna. Es decir, no es necesario que tenga las mismas licencias que la original
+
+###### Ejemplos:
 
 Las más importantes son: 
 * BSD License.
@@ -47,7 +55,7 @@ Tambien tenemos:
 * PHP License v.3.0
 * VMS License.
     
-* __Licencia de software de código abierto robustas__: Estas licencias aplican algunas restricciones a las obras derivadas, haciendo que según el grado de aplicación se puedan dividir a su vez en dos subcategorías:
+    * __Licencia de software de código abierto robustas__: Estas licencias aplican algunas restricciones a las obras derivadas, haciendo que según el grado de aplicación se puedan dividir a su vez en dos subcategorías:
 
 - __Robustas fuertes__: Las licencias de software de código abierto robustas fuertes o con copyleft fuerte, contienen una cláusula que obliga a que las obras derivadas o modificaciones que se realicen al software original se deban licenciar bajo los mismos términos y condiciones de la licencia original. 
 
@@ -75,25 +83,40 @@ Tambien tenemos:
 * EUPL.
 
 
-## Licencias de software libre
+#### Licencias de software libre
 
-#### Tipos de licencias libres
+    #### Tipos de licencias libres
 
 __Libres, Copyleft__
 
-* GPL: Este tipo de licencia exige que cualquier software derivado del software original también se publique bajo la misma licencia. Los usuarios pueden hacer cualquier cosa con el software, pero si lo modifican o distribuyen, deben hacerlo bajo los términos de la licencia GPL. Muchos proyectos de software de código abierto utilizan esta licencia, incluyendo el sistema operativo Linux, el editor de texto Emacs, y la suite de oficina LibreOffice.
-* LGPL: La Licencia Pública General Menor de GNU (LGPL, por sus siglas en inglés) es una licencia de software libre. Es una variante de la Licencia Pública General de GNU (GPL), pero con términos menos restrictivos en cuanto a la redistribución de bibliotecas de software. Esta permite que una biblioteca de software pueda ser utilizada en programas propietarios o de código abierto sin tener que liberar el código fuente completo del programa que utiliza la biblioteca. Sin embargo, si se realizan modificaciones en la biblioteca en sí, esas modificaciones deben ser liberadas bajo la LGPL.
+*__GPL__*: Este tipo de licencia exige que cualquier software derivado del software original también se publique bajo la misma licencia. Los usuarios pueden hacer cualquier cosa con el software, pero si lo modifican o distribuyen, deben hacerlo bajo los términos de la licencia GPL. 
 
-Ejemplos de bibliotecas de software que utilizan la LGPL incluyen el framework de desarrollo web Django, el motor de base de datos MySQL Connector/C, y la biblioteca de gráficos GTK+.
+###### Ejemplos de proyectos de software de código abierto utilizan esta licencia:
+
+* Sistema operativo Linux
+* El editor de texto Emacs
+* La suite de oficina LibreOffice.
+
+*__LGPL__*: La Licencia Pública General Menor de GNU (LGPL, por sus siglas en inglés) es una licencia de software libre. Es una variante de la Licencia Pública General de GNU (GPL), pero con términos menos restrictivos en cuanto a la redistribución de bibliotecas de software. Esta permite que una biblioteca de software pueda ser utilizada en programas propietarios o de código abierto sin tener que liberar el código fuente completo del programa que utiliza la biblioteca. Sin embargo, si se realizan modificaciones en la biblioteca en sí, esas modificaciones deben ser liberadas bajo la LGPL.
+
+###### Ejemplos de bibliotecas de software que utilizan la LGPL:
+ * Framework de desarrollo web Django
+ * El motor de base de datos MySQL Connector/C
+ * La biblioteca de gráficos GTK+.
 
 __Abiertas, Permisivas__
 
-* BSD: Esta licencia es similar a la licencia MIT, pero también permite a los usuarios utilizar el nombre del autor o del titular de los derechos de autor para promocionar productos derivados del software. Ejemplos de proyectos de software de código abierto que utilizan la licencia BSD incluyen el sistema operativo FreeBSD, el servidor web Nginx, y el framework de desarrollo web Ruby on Rails.
+*__BSD__*: Esta licencia es similar a la licencia MIT, pero también permite a los usuarios utilizar el nombre del autor o del titular de los derechos de autor para promocionar productos derivados del software. 
 
-###### ¿Cuáles son las diferencias entre las dos vertientes de las licencias libres de software?
+###### Ejemplos de proyectos de software de código abierto que utilizan la licencia BSD:
+
+* El sistema operativo FreeBSD
+* El servidor web Nginx
+* El framework de desarrollo web Ruby on Rails.
+
+#### ¿Cuáles son las diferencias entre las dos vertientes de las licencias libres de software?
 
 Recordamos que podemos encontrar las licencias libres de software permisivas y copyleft. La principal diferencia entre estas dos vertientes es que las licencias permisivas permiten que el software sea utilizado en proyectos propietarios, mientras que las licencias copyleft requieren que cualquier obra derivada del software sea publicada bajo los mismos términos de la licencia original. En otras palabras, las licencias permisivas son más abiertas y flexibles, mientras que las licencias copyleft garantizan que el software siga siendo libre y abierto en el futuro.
-
 
 ###### Ejemplos de licencias en el software
 
@@ -110,20 +133,9 @@ Recordamos que podemos encontrar las licencias libres de software permisivas y c
 
 La Licencia Pública General de GNU, llamada comúnmente GPL de GNU, se usa para la mayoría de los programas de GNU y para más de la mitad de los paquetes de software libre. La última es la versión 3. 
 
-###### Ejemplos
-
-* [GameShell](https://github.com/phyver/GameShell.git)
-
-* [faceSwap]()
-
-LGPL v3.0
+* LGPL v3.0
 
 La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas —pero no para todas— las bibliotecas de GNU. La última es la versión 3. 
-
-###### Ejemplos
-
-*[]()
-
 
 ## ¿Cuáles son las ventajas del software libre para la sociedad?
 

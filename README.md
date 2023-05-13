@@ -77,22 +77,23 @@ Tambien tenemos:
 
 ## Licencias de software libre
 
-#### ¿Qué es una licencia de software libre?
-
-
-
 #### Tipos de licencias libres
 
 __Libres, Copyleft__
 
-* GPL 
-* LGPL
+* GPL: Este tipo de licencia exige que cualquier software derivado del software original también se publique bajo la misma licencia. Los usuarios pueden hacer cualquier cosa con el software, pero si lo modifican o distribuyen, deben hacerlo bajo los términos de la licencia GPL. Muchos proyectos de software de código abierto utilizan esta licencia, incluyendo el sistema operativo Linux, el editor de texto Emacs, y la suite de oficina LibreOffice.
+* LGPL: La Licencia Pública General Menor de GNU (LGPL, por sus siglas en inglés) es una licencia de software libre. Es una variante de la Licencia Pública General de GNU (GPL), pero con términos menos restrictivos en cuanto a la redistribución de bibliotecas de software. Esta permite que una biblioteca de software pueda ser utilizada en programas propietarios o de código abierto sin tener que liberar el código fuente completo del programa que utiliza la biblioteca. Sin embargo, si se realizan modificaciones en la biblioteca en sí, esas modificaciones deben ser liberadas bajo la LGPL.
+
+Ejemplos de bibliotecas de software que utilizan la LGPL incluyen el framework de desarrollo web Django, el motor de base de datos MySQL Connector/C, y la biblioteca de gráficos GTK+.
 
 __Abiertas, Permisivas__
 
-* BSD
+* BSD: Esta licencia es similar a la licencia MIT, pero también permite a los usuarios utilizar el nombre del autor o del titular de los derechos de autor para promocionar productos derivados del software. Ejemplos de proyectos de software de código abierto que utilizan la licencia BSD incluyen el sistema operativo FreeBSD, el servidor web Nginx, y el framework de desarrollo web Ruby on Rails.
 
 ###### ¿Cuáles son las diferencias entre las dos vertientes de las licencias libres de software?
+
+Recordamos que podemos encontrar las licencias libres de software permisivas y copyleft. La principal diferencia entre estas dos vertientes es que las licencias permisivas permiten que el software sea utilizado en proyectos propietarios, mientras que las licencias copyleft requieren que cualquier obra derivada del software sea publicada bajo los mismos términos de la licencia original. En otras palabras, las licencias permisivas son más abiertas y flexibles, mientras que las licencias copyleft garantizan que el software siga siendo libre y abierto en el futuro.
+
 
 ###### Ejemplos de licencias en el software
 
@@ -126,10 +127,10 @@ La Licencia Pública General Reducida de GNU (LGPL de GNU) se usa para algunas �
 
 ## ¿Cuáles son las ventajas del software libre para la sociedad?
 
-El software nos aporta una serie de ventajas. Para empezar, el hecho de que se pueda acceder al código fuente, permite que muchas personas revisen y prueben el código, consiguiendo un desarrollo y mejoramiento continuo y por pate de todos. Además, una de sus libertades nos permiete copiar y distribuir el código en beneficio. Por otra parte, al ser los usuarios los encargados del software, no se necesitan grandes fabricantes, por lo que se consigue mayor independencia tecnológica. Por último (low cost: dado que cuenta con una comunidad detrás que apoya su desarrollo, el programa termina siendo una opción económica que repercute directamente en el usuario.)
+El software nos aporta una serie de ventajas. Para empezar, el hecho de que se pueda acceder al código fuente, permite que muchas personas revisen y prueben el código, consiguiendo un desarrollo y mejoramiento continuo y por pate de todos. Además, una de sus libertades nos permiete copiar y distribuir el código en beneficio. Por otra parte, al ser los usuarios los encargados del software, no se necesitan grandes fabricantes, por lo que se consigue mayor independencia tecnológica. Por último, el software libre es a menudo gratuito o de bajo costo en comparación con el software propietario, dado que cuenta con una comunidad detrás que apoya su desarrollo. Esto puede ayudar a reducir los costos para los individuos, las empresas y los gobiernos, y el programa termina siendo una opción económica que repercute directamente en el usuario.
 
 ## REFERENCIAS
 
-* "Licencia de software". Wikipedia. Deiponible en: https://es.wikipedia.org/wiki/Licencia_de_software. (Accedido: 1 de marzo, 2023)
-* 
+* "Licencia de software". Wikipedia. Disponible en: https://es.wikipedia.org/wiki/Licencia_de_software. (Accedido: 1 de marzo, 2023)
+* "Comparador de licencias de software libre". Joinup. Disponible en: https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses. (Accedido: 3de marzo, 2023)
 

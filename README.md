@@ -5,9 +5,9 @@
 Se define el software libre como un software con un código fuente que puede ser estudiado, modificado y utilizado libremente con cualquier finalidad y redistribuido con cambios o mejoras sobre él, dejándolo a disposición de los usuarios. 
 
 #### ¿Qué libertades nos concede?
-
+```
 Un software libre nos permite 4 tipos de libertades que son:
-
+```
 * __Usar__ el programa con cualquier propósito que deseemos.
 * __Estudiar__ y modificar el funcionamiento del programa, adaptándolo a nuestro gusto.
 * __Distribuir__ copias del programa, cosa que puede ayudar a otros usuarios.

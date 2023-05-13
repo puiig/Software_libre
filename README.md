@@ -84,7 +84,7 @@ Tambien tenemos:
 
 #### Licencias de software libre
 
-    #### Tipos de licencias libres
+   #### Tipos de licencias libres
 
 __Libres, Copyleft__
 
